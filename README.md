@@ -6,7 +6,7 @@ You can find me on <a href=https://www.linkedin.com/in/tamarah-asassa/>LinkedIn 
 
 ⚡ Fun fact: I love cats
 
-<img src="/Users/tamarahasassa/Downloads/Beige Simple Elegant Personal LinkedIn Banner.png">
+<img src="Beige Simple Elegant Personal LinkedIn Banner.png">
 <!--
 **daisy-tam/daisy-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
