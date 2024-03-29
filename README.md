@@ -1,10 +1,12 @@
-### Hi there 👋
-I'm Tamarah 
+### Hi there 👋 I'm Tamarah
 
-🌱 I’m currently learning Python 
+🌱 I’m currently learning Python as a part of CoGrammars Software Engineering Fundamentals course.
 
-<img src="https://media-be.chewy.com/wp-content/uploads/2022/09/27095535/cute-dogs-pembroke-welsh-corgi.jpg">
+You can find me on <a href=https://www.linkedin.com/in/tamarah-asassa/>LinkedIn </a>
 
+⚡ Fun fact: I love cats
+
+<img src="/Users/tamarahasassa/Downloads/Beige Simple Elegant Personal LinkedIn Banner.png">
 <!--
 **daisy-tam/daisy-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
