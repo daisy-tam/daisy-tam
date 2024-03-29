@@ -3,7 +3,7 @@ I'm Tamarah
 
 🌱 I’m currently learning Python 
 
-<img> src="https://media-be.chewy.com/wp-content/uploads/2022/09/27095535/cute-dogs-pembroke-welsh-corgi.jpg"
+<img src="https://media-be.chewy.com/wp-content/uploads/2022/09/27095535/cute-dogs-pembroke-welsh-corgi.jpg">
 
 <!--
 **daisy-tam/daisy-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
