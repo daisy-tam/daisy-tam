@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Tamarah 
+
+🌱 I’m currently learning Python 
+
+
 
 <!--
 **daisy-tam/daisy-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
